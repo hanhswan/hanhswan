@@ -1,9 +1,10 @@
 # Hello, I'm Han Han Swan Yee Htet 👋
 
-And I am:
-  🎓 A Computer Science graduate from the University of Sussex 
-  💻 An Aspiring Software Developer 
-  📍 Located in the United Kingdom 
+And I am:  
+
+- 🎓 A Computer Science graduate from the University of Sussex 
+- 💻 An Aspiring Software Developer 
+- 📍 Located in the United Kingdom 
 
 ---
 
@@ -34,20 +35,8 @@ And I am:
 
 ## About Me
 
-I am a Computer Science graduate, recently graduated and eager to put my foot down in the field of software engineering and problem solving. 
+I am a Computer science with Artificial Intelligence, recently graduated and eager to get into the field and earn practical experience in the field of software engineering. 
 
+I particularly enjoy working with the programming language Java, where I have nurtured and facilitated an understanding of object-oriented design, data structures and software engineering principles through coursework and independent practice. 
 
-<!--
-**hanhswan/hanhswan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+During the later years of my degree, I had managed to accrue exposure to advanced topics pertaining to artificial intelligence, algorithmic problem solving and project-based development, in which I not only enjoy but am eager to apply to real-world problems. 
