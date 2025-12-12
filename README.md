@@ -4,7 +4,7 @@ And I am:
 
 - 🎓 A Computer Science graduate from the University of Sussex 
 - 💻 An Aspiring Software Developer 
-- 📍 Located in the United Kingdom 
+- 📍 Located in the United Kingdom
 
 ---
 
@@ -35,7 +35,7 @@ And I am:
 
 ## About Me
 
-I am a Computer science with Artificial Intelligence, recently graduated and eager to get into the field and earn practical experience in the field of software engineering. 
+With a degree Computer science with Artificial Intelligence, recently graduated and eager to get into the field and earn practical experience in the field of software engineering. 
 
 I particularly enjoy working with the programming language Java, where I have nurtured and facilitated an understanding of object-oriented design, data structures and software engineering principles through coursework and independent practice. 
 
